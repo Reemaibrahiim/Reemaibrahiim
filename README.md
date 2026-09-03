@@ -70,6 +70,3 @@ Architectures I've worked with for image classification tasks:
 <p align="center">Microsoft Office</p>
 
 <hr>
-
-
-<hr>
