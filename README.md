@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Reema 👋</h1>
 
-<h3 align="center">Data & software enthusiast who loves turning ideas into working systems</h3>
+<h3 align="center">Information Technology student — Data Science & AI track</h3>
 
 <hr>
 
@@ -72,12 +72,5 @@ Architectures I've worked with for image classification tasks:
 
 <hr>
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reemaibrahiim&show_icons=true&theme=dark&locale=en" alt="Reemaibrahiim" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reemaibrahiim&show_icons=true&theme=dark&locale=en&layout=compact" alt="Reemaibrahiim" />
-</p>
 
 <hr>
