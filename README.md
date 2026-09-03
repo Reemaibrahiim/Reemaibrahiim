@@ -7,12 +7,11 @@
 <ul>
   <li>📊 I work with <strong>Python, Java, Flutter</strong> and full-stack web development</li>
   <li>🧠 I build and evaluate <strong>Machine Learning / Deep Learning models</strong></li>
-  <li>📫 Reach me on <a href="https://www.linkedin.com/in/reema-alraqibah-925a81329/">LinkedIn</a></li>
 </ul>
 
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"> 📫 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/reema-alraqibah-925a81329/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Reema Alraqibah LinkedIn" height="30" width="40">
