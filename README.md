@@ -7,11 +7,12 @@
 <ul>
   <li>📊 I work with <strong>Python, Java, Flutter</strong> and full-stack web development</li>
   <li>🧠 I build and evaluate <strong>Machine Learning / Deep Learning models</strong></li>
+  <li>📫 Reach me on <a href="https://www.linkedin.com/in/reema-alraqibah-925a81329/">LinkedIn</a></li>
 </ul>
 
 <hr>
 
-<h3 align="center"> 📫Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/reema-alraqibah-925a81329/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Reema Alraqibah LinkedIn" height="30" width="40">
@@ -58,15 +59,66 @@ Architectures I've worked with for image classification tasks:
   <li><strong>Custom CNN</strong></li>
   <li><strong>Enhanced VGG16</strong> with SMOTE and Grid Search</li>
 </ul>
+<p align="center">
+  🔗 <a href="https://github.com/Reemaibrahiim/MachineLearningProject">MachineLearningProject</a> ·
+  <a href="https://github.com/Reemaibrahiim/Humor_In_Headlines">Humor_In_Headlines</a> ·
+  <a href="https://github.com/Alanoud-10/PROJECT_Data-Mining">PROJECT_Data-Mining</a>
+</p>
 
 <hr>
 
 <h3 align="center">🌐 Networking:</h3>
 <p align="center">Java Sockets (TCP)</p>
+<p align="center">
+  🔗 <a href="https://github.com/Reemaibrahiim/Code-Breaker">Code-Breaker</a>
+</p>
 
 <hr>
 
 <h3 align="center">🛠️ Other Tools:</h3>
 <p align="center">Microsoft Office</p>
+
+<hr>
+
+<h3 align="center">📂 Projects</h3>
+
+<p align="center"><strong>Web Development (Frontend)</strong></p>
+<p align="center">
+  <a href="https://github.com/Reemaibrahiim/Kidventure">Kidventure</a>
+</p>
+
+<p align="center"><strong>Web Development (Full Stack)</strong></p>
+<p align="center">
+  <a href="https://github.com/Reemaibrahiim/eyely">eyely</a> ·
+  <a href="https://github.com/Reemaibrahiim/WOD">WOD</a>
+</p>
+
+<p align="center"><strong>Java Projects</strong></p>
+<p align="center">
+  <a href="https://github.com/Reemaibrahiim/BeautyVerse-CSC111">BeautyVerse-CSC111</a> ·
+  <a href="https://github.com/Reemaibrahiim/funbits--CSC113">funbits-CSC113</a> ·
+  <a href="https://github.com/Reemaibrahiim/Photo-Management-System-Data-structure-project-CSC212">Photo-Management-System-CSC212</a>
+</p>
+
+<p align="center"><strong>Excel & Project Management</strong></p>
+<p align="center">
+  <a href="https://github.com/Reemaibrahiim/Enterpreneurship-project">Enterpreneurship-project</a> ·
+  <a href="https://github.com/Reemaibrahiim/ProjectManagment-IRTH">ProjectManagment-IRTH</a>
+</p>
+
+<p align="center"><strong>UX Design</strong></p>
+<p align="center">
+  <a href="https://github.com/Reemaibrahiim/Tiny-Steps-Mobile-Application-IT214">Tiny-Steps-Mobile-Application-IT214</a>
+</p>
+
+<hr>
+
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reemaibrahiim&show_icons=true&theme=dark&locale=en" alt="Reemaibrahiim" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reemaibrahiim&show_icons=true&theme=dark&locale=en&layout=compact" alt="Reemaibrahiim" />
+</p>
 
 <hr>
