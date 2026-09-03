@@ -49,15 +49,7 @@
 <hr>
 
 <h3 align="center">🧠 Machine Learning / Deep Learning:</h3>
-<p align="center">
-Architectures I've worked with for image classification tasks:
-</p>
-<ul>
-  <li><strong>VGG16</strong> — Transfer Learning with ImageNet weights</li>
-  <li><strong>MobileNetV2</strong> — Transfer Learning</li>
-  <li><strong>Custom CNN</strong></li>
-  <li><strong>Enhanced VGG16</strong> with SMOTE and Grid Search</li>
-</ul>
+
 <p align="center">
   🔗 <a href="https://github.com/Reemaibrahiim/MachineLearningProject">MachineLearningProject</a> ·
   <a href="https://github.com/Reemaibrahiim/Humor_In_Headlines">Humor_In_Headlines</a> ·
